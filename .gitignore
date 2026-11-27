@@ -2,6 +2,7 @@ node_modules/
 .next/
 out/
 .vercel/
+*.tsbuildinfo
 
 # Keep the supplied source files local; the resume contains private contact details.
 /resume.pdf.docx
