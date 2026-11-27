@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+.vercel/
+
+# Keep the supplied source files local; the resume contains private contact details.
+/resume.pdf.docx
+/headshot.png.jpeg
